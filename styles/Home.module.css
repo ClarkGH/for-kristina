@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 100vh;
+  min-height: 100vh;
+}
+
+.gallery {
+  border: 2px solid purple;
+  border-radius: 2rem;
+  top: 50%;
+  min-width: 80vh;
+  min-height: 80vh;
+}
